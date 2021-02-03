@@ -84,7 +84,7 @@ private class Comment{
 
 
 ## Phần 3: Thiết kế CSDL Quan hệ theo đặc tả
-[Lược đồ quan hệ thực thể](course_management/course_management_erd.png)
+![](course_management/course_management_erd.png)
 ## Phần 4: Thiết kế RESTful API
 
 ## Phần 5: Lập trình Restful API
