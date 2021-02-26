@@ -12,6 +12,7 @@
 3. Clean code tuy phức tạp và có thể gây tốn công số phát triển. Tuy nhiên mục tiêu của clean code là giúp code dễ đọc, dễ maintain, dễ nâng cấp hệ thống, giảm số dòng code, tái sử dụng code, dễ dàng.
 
 Nếu ta sử dụng clean code hợp lý thì những người sau khi maintain code của mình sẽ dễ dàng hơn rất nhiều, ngược lại nếu không sử dụng clean code thì khi phát triển hệ thống thì code sẽ bị phình to, công việc maintain sẽ rất vất vả và tốn công số.
+
 4. Đề xuất của Vân phù hợp với quy ước trong Clean Code.
 
 5. 
@@ -86,8 +87,10 @@ private class Comment{
 ## Phần 3: Thiết kế CSDL Quan hệ theo đặc tả
 ![](course_management/course_management_erd.png)
 ## Phần 4: Thiết kế RESTful API
+[Mã nguồn bài 4](registration)
 
 ## Phần 5: Lập trình Restful API
+[Mã nguồn bài 4](course_management)
 
 ## Trắc nghiệm
 1. C

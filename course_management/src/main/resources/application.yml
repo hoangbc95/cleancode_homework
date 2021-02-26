@@ -1,0 +1,19 @@
+spring:
+  datasource:
+    url: jdbc:h2:mem:course_management
+    platform: h2
+    username: sa
+    password: 1234
+    driverClassName: org.h2.Driver
+  jpa:
+    hibernate:
+      dialect: org.hibernate.dialect.H2Dialect
+      ddl-auto: create-drop
+    show-sql: true
+  h2:
+    console:
+      enabled: true
+logging:
+  level:
+    com.example.course_management.configuration.logging: DEBUG
+    com.example.course_management.error: ERROR
