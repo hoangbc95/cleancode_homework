@@ -4,6 +4,11 @@
 
 ## Phần 1: Clean Code căn bản
 1. 5 mục tiêu chính của Clean Code là
+   - Để source đơn giản, hiệu quả, ngắn gọn, dễ hiểu, không trùng lặp code
+   - Người khác có thể đọc hiểu code dễ dàng, không mất thời gian
+   - Dễ dàng maintain, mở rộng hệ thống
+   - Hạn chế các bug của hệ thống
+   - Giảm thời gian, chi phí cho việc phát triển hệ thống
 
 2. Đáp án của tôi là team C bởi vì:
    - Team A áp dụng clean code muộn, sau khi đã release version đầu tiên. Khi có việc refactor code sẽ mất rất nhiều công số, có thể có sai sót
@@ -13,7 +18,7 @@
 
 Nếu ta sử dụng clean code hợp lý thì những người sau khi maintain code của mình sẽ dễ dàng hơn rất nhiều, ngược lại nếu không sử dụng clean code thì khi phát triển hệ thống thì code sẽ bị phình to, công việc maintain sẽ rất vất vả và tốn công số.
 
-4. Đề xuất của Vân phù hợp với quy ước trong Clean Code.
+4. Đề xuất của Vân phù hợp với quy ước trong Clean Code vì đặt tên method, param bằng tiếng Anh, dễ hiểu, không truyền thừa param.
 
 5. 
 ```Java
